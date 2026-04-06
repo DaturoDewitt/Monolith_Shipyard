@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "8f9cf12a0e8ad59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a996c53c4c6a0c3e",
+  "active": "8f9cf12a0e8ad59f",
   "lastOpenFiles": [
     "Monolith Shipyard.md",
     "index.md",
     "Ships/Akula.md",
-    "index.md",
     "MapImages/zeros/zeros-0.png",
     "MapImages/zeros",
     "MapImages/zephyr/zephyr-0.png",
