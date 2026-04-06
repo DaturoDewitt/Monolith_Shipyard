@@ -1,7 +1,3 @@
 ---
-title: My GitHub Pages Notebook!
+title: Monolith Shipyards
 ---
-
-Hello world!
-
-Write some words here!
