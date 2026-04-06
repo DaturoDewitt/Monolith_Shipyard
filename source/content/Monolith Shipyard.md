@@ -2,13 +2,13 @@
 
 ## Faction
 
-[[Colonial Staff]], [[Trans-Solarian Federation]], [[Black Market]], [[Custom]], [[Expedition]], [[Medical Dispatch]], [[Scrap]], [[Shipyard]], [[Syndicate]], [[United Soviet Socialist Planets]], [[Phaethon Dynasty]]
+#Colonial_Staff, #Trans-Solarian_Federation, #Black_Market, #Phaethon_Dynasty, #Custom, #Expedition, #Medical_Dispatch, #Scrap, #Shipyard, #Syndicate, #United_Soviet_Socialist_Planets
 ## Size
 
-[[Large]], [[Medium]], [[Small]], [[Micro]]
+#Large, #Medium, #Small, #Micro
 ## Class
 
-#Pursuit, #Chemistry, #Frigate, #Expedition, #Botany, #Fighter, #Science, #Corvette, #Civilian, #Syndicate, #Unknown, #Engineering, #Cargo, #Medical, #Destroyer, #Scrapyard, #Patrol, #Pirate, #Salvage, #Kitchen, #Atmospherics, #Capital
+#Corvette, #Patrol, #Capital, #Fighter, #Syndicate, #Cargo, #Scrapyard, #Destroyer, #Atmospherics, #Expedition, #Botany, #Pirate, #Medical, #Pursuit, #Science, #Frigate, #Engineering, #Civilian, #Chemistry, #Kitchen, #Salvage
 ## Engine
 
-#Solar, #APU, #RTG, #Plasma, #Uranium, #AME, #Bananium
+#Solar, #APU, #RTG, #Plasma, #Uranium, #AME, #Bananium, #No_Engine
